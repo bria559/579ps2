@@ -1,0 +1,26 @@
+body{
+    background-color: #DFC6D7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+h1{
+    text-align: center;
+    color: #746a0a;
+    font-size: 48px;
+}
+h2{
+    text-align: center;
+    font-size: 24px;
+}
+#reasons{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    padding-right: 10px;
+}
